@@ -1,4 +1,4 @@
 # ctf-tool
 
 
-Set-ExecutionPolicy -Scope Process Bypass -Force; .\pwn-ssh.ps1
+Set-ExecutionPolicy -Scope Process Bypass -Force; .\pwn-bulletproof.ps1
